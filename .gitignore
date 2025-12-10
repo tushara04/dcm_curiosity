@@ -1,0 +1,9 @@
+data/
+__pycache__/
+*.pyc
+dcmenv/
+.env/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.swp
