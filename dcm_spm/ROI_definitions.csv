@@ -1,0 +1,4 @@
+roi_name,x,y,z,radius_mm
+ROI1_mPFC,-40.5,28.5,46.5,8
+ROI2_Hipp,-43.5,-40.5,-52.5,8
+ROI3_Striatum,-46.5,16.5,-37.5,8
